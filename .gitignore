@@ -1,0 +1,14 @@
+
+# Compiled C++ and C programs
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Operating system files
+Thumbs.db
+.DS_Store
