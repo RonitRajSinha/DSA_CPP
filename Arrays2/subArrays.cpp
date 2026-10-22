@@ -26,6 +26,7 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
 
     subarrays(arr, n);
+    
 
     return 0;
 }
