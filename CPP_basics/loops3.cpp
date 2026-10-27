@@ -15,6 +15,7 @@ int main(){
         sum += num/o;
         sum += num;
         i++;
+        
 
     }
 
